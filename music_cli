@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo -n "Enter the name of the song: "
+read song
+konsole -e cava | ytfzf -ma $song

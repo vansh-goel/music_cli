@@ -1,5 +1,5 @@
 # Music_CLI
-This is a mini bash script to play music using ytfzf as the sorce and cava as music visualizer
+This is a mini bash script to play music using ytfzf as the source and cava as music visualizer
 
 ## Dependencies 
 - [Cava](https://aur.archlinux.org/packages/cava)
